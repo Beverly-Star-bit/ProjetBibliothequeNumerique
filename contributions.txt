@@ -1,0 +1,8 @@
+Beverly St Come
+
+- Création de la hiérarchie des documents
+- Lecture du fichier CSV
+- Gestion des emprunts et des retours
+- Gestion des exceptions personnalisées
+- Calcul des statistiques
+- Génération du rapport TXT
