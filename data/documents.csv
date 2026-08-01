@@ -1,0 +1,20 @@
+type;id;titre;auteur;annee;detail1;detail2
+Livre;L001;Les Misérables;Victor Hugo;1862;1488;Gallimard
+Ebook;E001;Clean Code;Robert C. Martin;2008;24.5;
+Roman;R001;Le Petit Prince;Antoine de Saint-Exupéry;1943;96;Conte philosophique
+Magazine;M001;Science & Vie;Alain Schuhl;2026;1250;Janvier
+BandeDessinee;BD001;Astérix le Gaulois;René Goscinny;1959;48;Albert Uderzo
+Livre;L002;Le Comte de Monte-Cristo;Alexandre Dumas;1844;1248;Flammarion
+Ebook;E002;Design Patterns;Erich Gamma;1994;18.2;
+Roman;R002;L'Étranger;Albert Camus;1942;120;Roman absurde
+Magazine;M002;National Geographic;Nathan Lump;2025;412;Juin
+BandeDessinee;BD002;Tintin au Tibet;Hergé;1960;62;Hergé
+Livre;L003;Le Père Goriot;Honoré de Balzac;1835;320;Folio
+Ebook;E003;The Pragmatic Programmer;Andy Hunt;1999;15.0;
+Roman;R003;Madame Bovary;Gustave Flaubert;1857;320;Drame romantique
+Magazine;M003;Le Point;Étienne Gernelle;2026;1250;Janvier
+BandeDessinee;BD003;Blacksad;Juan Diaz Canales;2000;56;Juanjo Guarnido
+Livre;L004;Germinal;Émile Zola;1885;592;Le Livre de Poche
+Ebook;E004;Effective Java;Joshua Bloch;2018;31.2;
+Magazine;M004;Géo;Eric Meyer;2025;534;Novembre
+BandeDessinee;BD004;Lucky Luke;Morris;1970;44;Morris

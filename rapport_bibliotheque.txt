@@ -1,0 +1,63 @@
+===== RAPPORT DE LA BIBLIOTHEQUE NUMERIQUE =====
+
+===== INFORMATIONS GENERALES =====
+Nombre total de documents : 19
+
+===== DOCUMENTS PAR CATEGORIE =====
+Ebook : 4 document(s)
+Bande Dessinee : 4 document(s)
+Roman : 3 document(s)
+Livre : 4 document(s)
+Magazine : 4 document(s)
+
+===== DOCUMENT LE PLUS EMPRUNTE =====
+Titre : Les Misérables
+Auteur : Victor Hugo
+Nombre d'emprunts : 1
+
+===== DOCUMENTS JAMAIS EMPRUNTES =====
+- Le Petit Prince (Roman)
+- Science & Vie (Magazine)
+- Astérix le Gaulois (Bande Dessinee)
+- Le Comte de Monte-Cristo (Livre)
+- Design Patterns (Ebook)
+- L'Étranger (Roman)
+- National Geographic (Magazine)
+- Tintin au Tibet (Bande Dessinee)
+- Le Père Goriot (Livre)
+- The Pragmatic Programmer (Ebook)
+- Madame Bovary (Roman)
+- Le Point (Magazine)
+- Blacksad (Bande Dessinee)
+- Germinal (Livre)
+- Effective Java (Ebook)
+- Géo (Magazine)
+- Lucky Luke (Bande Dessinee)
+
+===== TAUX D'UTILISATION =====
+10.526315789473683 %
+
+===== DOCUMENTS DISPONIBLES =====
+- Le Petit Prince (Roman)
+- Science & Vie (Magazine)
+- Astérix le Gaulois (Bande Dessinee)
+- Le Comte de Monte-Cristo (Livre)
+- Design Patterns (Ebook)
+- L'Étranger (Roman)
+- National Geographic (Magazine)
+- Tintin au Tibet (Bande Dessinee)
+- Le Père Goriot (Livre)
+- The Pragmatic Programmer (Ebook)
+- Madame Bovary (Roman)
+- Le Point (Magazine)
+- Blacksad (Bande Dessinee)
+- Germinal (Livre)
+- Effective Java (Ebook)
+- Géo (Magazine)
+- Lucky Luke (Bande Dessinee)
+
+===== DOCUMENTS EMPRUNTES =====
+- Les Misérables (Livre)
+- Clean Code (Ebook)
+
+===== FIN DU RAPPORT =====
